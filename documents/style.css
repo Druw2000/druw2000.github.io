@@ -1,3 +1,7 @@
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+}
 p {
   wrap: hard;
   width: 60%;
