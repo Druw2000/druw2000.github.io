@@ -3,8 +3,11 @@ body {
   margin-right: 20%;
   background-color: #faebd7;
 }
-h1 {
-  
+html {
+  background-color: #faebd7;
+}
+#content {
+ background-color: white; 
 }
 p {
   font-family: "Times New Roman";
