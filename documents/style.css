@@ -3,6 +3,6 @@ body {
   margin-right: 20%;
 }
 p {
-  wrap: hard;
+  word-wrap: normal;
   width: 60%;
 }
