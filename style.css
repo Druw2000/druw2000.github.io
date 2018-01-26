@@ -7,9 +7,9 @@ body {
   margin: 0px;
   min-height: 100%;
   width: 100%;
-  background: linear-gradient(rgba(255,0,0,0), rgba(255,0,0,1));
-  font-family: Times New Roman;
+  background-color: black;
+  font-family: "Times New Roman";
 }
-h1 {
-  
+#content {
+  background-color: #add8e6;
 }
