@@ -4,12 +4,13 @@ html {
    width: 100%;
 }
 body {
-  margin: 0px;
   min-height: 100%;
   width: 100%;
   background-color: black;
   font-family: "Times New Roman";
 }
 #content {
+  margin: 20px 20% 20px 20%;
   background-color: #add8e6;
+  padding: 10px;
 }
