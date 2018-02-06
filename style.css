@@ -7,7 +7,15 @@ body {
   min-height: 100%;
   width: 100%;
   background-color: #6a6a6a;
-  font-family: "Times New Roman";
+  font-family: "Verdana";
+}
+li {
+  display: inline;
+}
+a {
+  text-align: center;
+  color: black;
+  text-decoration: underline;
 }
 #content {
   margin: 20px 20% 20px 20%;
@@ -15,19 +23,11 @@ body {
   background-color: #add8e6;
   padding: 10px;
 }
-#content ul {
+#content #navigation {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: white;
   border-bottom: 2px solid black;
-}
-#content li {
-  display: inline;
-}
-#content a {
-  text-align: center;
-  color: black;
-  text-decoration: underline;
 }
