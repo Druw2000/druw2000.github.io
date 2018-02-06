@@ -9,9 +9,6 @@ body {
   background-color: #6a6a6a;
   font-family: "Verdana";
 }
-li {
-  display: inline;
-}
 a {
   text-align: center;
   color: black;
@@ -24,7 +21,7 @@ a {
   padding: 10px;
 }
 #content #navigation {
-  list-style-type: none;
+  list-style-type: inline;
   margin: 0;
   padding: 0;
   overflow: hidden;
