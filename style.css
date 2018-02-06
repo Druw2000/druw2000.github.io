@@ -25,12 +25,15 @@ a {
   padding: 0;
   overflow: hidden;
   background-color: white;
-  border-bottom: 2px solid black;
+  border: 2px solid black;
 }
 .navigation ul {
   list-style-type: none;
 }
 .navigation li {
+  margin: 3px 5px 3px 5px;
+  border: 1px solid black;
+  border-radius: 2px;
   display: inline;
 }
 .navigation a {
