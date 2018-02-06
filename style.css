@@ -27,7 +27,7 @@ a {
   background-color: white;
   border-bottom: 2px solid black;
 }
-.navigation li {
+.navigation ul {
   list-style-type: inline;
 }
 .navigation a {
