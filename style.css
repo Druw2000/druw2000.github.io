@@ -31,7 +31,7 @@ a {
   list-style-type: none;
 }
 .navigation li {
-  margin: 3px 5px 3px 5px;
+  margin: 8px 10px 8px 10px;
   border: 1px solid black;
   border-radius: 2px;
   display: inline;
