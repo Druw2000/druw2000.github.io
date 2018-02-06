@@ -9,7 +9,19 @@ body {
   background-color: #6a6a6a;
   font-family: "Times New Roman";
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+  border-bottom: 2px solid black;
+}
+li {
+  display: inline;
+}
 a {
+  text-align: center;
   color: black;
   text-decoration: underline;
 }
