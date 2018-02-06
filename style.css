@@ -9,7 +9,13 @@ body {
   background-color: #6a6a6a;
   font-family: "Times New Roman";
 }
-ul {
+#content {
+  margin: 20px 20% 20px 20%;
+  border: 2px solid black;
+  background-color: #add8e6;
+  padding: 10px;
+}
+#content ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -17,19 +23,13 @@ ul {
   background-color: white;
   border-bottom: 2px solid black;
 }
-li {
+#content li {
   display: inline;
 }
-a {
+#content a {
   text-align: center;
   color: black;
   text-decoration: underline;
-}
-#content {
-  margin: 20px 20% 20px 20%;
-  border: 2px solid black;
-  background-color: #add8e6;
-  padding: 10px;
 }
 #home {
   font-size: 32px;
