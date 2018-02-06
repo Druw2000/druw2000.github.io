@@ -20,11 +20,16 @@ a {
   background-color: #add8e6;
   padding: 10px;
 }
-#content #navigation {
-  list-style-type: inline;
+#navigation {
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: white;
   border-bottom: 2px solid black;
+}
+#navigation li {
+  list-style-type: inline;
+}
+#navigation a {
+  text-decoration: none;
 }
