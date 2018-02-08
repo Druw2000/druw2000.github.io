@@ -24,19 +24,19 @@ hover {
   background-color: #add8e6;
   padding: 10px;
 }
-.navigation {
+.nav {
   margin: 0;
   padding: 0;
   background-color: white;
   border: 2px solid black;
   list-style-type: none;
 }
-.navigation li {
+.nav li {
   display: inline;
 }
-.navigation li:after {
+.nav li:after {
   border-left: 2px solid black;
 }
-.navigation a {
+.nav a {
   text-decoration: none;
 }
