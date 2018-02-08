@@ -30,10 +30,12 @@ hover {
   background-color: white;
   border: 2px solid black;
   list-style-type: none;
-  text-align: center;
 }
 .navigation li {
   display: inline;
+}
+.navigation li:after {
+  content: "|";
 }
 .navigation a {
   text-decoration: none;
