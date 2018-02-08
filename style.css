@@ -35,7 +35,7 @@ hover {
   display: inline;
 }
 .navigation li:after {
-  content: "|";
+  border-left: 2px solid black;
 }
 .navigation a {
   text-decoration: none;
