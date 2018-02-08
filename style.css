@@ -32,6 +32,9 @@ hover {
   list-style-type: none;
   text-align: center;
 }
+.navigation li {
+  display: inline;
+}
 .navigation a {
   text-decoration: none;
 }
