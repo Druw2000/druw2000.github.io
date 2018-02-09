@@ -24,18 +24,3 @@ hover {
   background-color: #add8e6;
   padding: 10px;
 }
-.nav {
-  margin: 0;
-  padding: 0;
-  background-color: white;
-  border: 2px solid black;
-  list-style-type: none;
-}
-.nav li {
-  display: inline;
-  border-right: 2px solid black;
-  padding: 2px 4px 2px 4px;
-}
-.nav a {
-  text-decoration: none;
-}
