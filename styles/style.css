@@ -3,16 +3,16 @@ body {
 	margin-right: 20%;
 	background-color: black;
 	color: white;
-	text-shadow: 0 0 12px green;
+	text-shadow: 0 0 10px white , 0 0 40px #00ff00 , 0 0 40px #00ff00 , 0 0 40px #00ff00;
 	font-family: monospace;
 	font-size: 28px;
 }
 a {
 	text-decoration: none;
 	color: white;
-	text-shadow: 0 0 12px red;
+	text-shadow: 0 0 10px white , 0 0 40px #ff0000 , 0 0 40px #ff0000 , 0 0 40px #ff0000;
 }
 a:hover {
 	color: white;
-	text-shadow: 0 0 12px yellow;
+	text-shadow: 0 0 10px white , 0 0 40px #0000ff , 0 0 40px #0000ff , 0 0 40px #0000ff;
 }
