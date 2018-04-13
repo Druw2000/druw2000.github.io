@@ -1,0 +1,18 @@
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: black;
+	color: white;
+	text-shadow: 0 0 12px green;
+	font-family: monospace;
+	font-size: 28px;
+}
+a {
+	text-decoration: none;
+	color: white;
+	text-shadow: 0 0 12px red;
+}
+a:hover {
+	color: white;
+	text-shadow: 0 0 12px yellow;
+}
