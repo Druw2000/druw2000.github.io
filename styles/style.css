@@ -1,0 +1,13 @@
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: black;
+	color: white;
+	/* text glow should be green */
+	font-family: courier new;
+}
+a {
+	color: white;
+	/* text glow should be red */
+	text-decoration: none;
+}
