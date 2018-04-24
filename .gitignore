@@ -21,3 +21,7 @@ README.html
 ._*
 .Spotlight-V100
 .Trashes
+
+# Symbolic links
+./docs/reading/networking.pdf
+./docs/reading/cpp.pdf
