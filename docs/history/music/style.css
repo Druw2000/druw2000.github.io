@@ -1,9 +1,9 @@
 @font-face {
   font-family: "Still time";
-  src: url("http://ff.cdn.1001fonts.net/s/t/still-time.regular.ttf") format("truetype");
+  src: url(still-time.ttf) format("truetype");
 }
 body {
-  background-image: url("https://natewren.com/themes/wallpaper2/radpack/radpack_8.jpg");
+  background-image: url(https://natewren.com/themes/wallpaper2/radpack/radpack_8.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   font-family: "Georgia";
