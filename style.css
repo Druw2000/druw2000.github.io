@@ -3,7 +3,6 @@ body {
 	margin-right: 20%;
 	background-color: #f5f5f5;
 	color: black;
-	/* text glow should be green */
 	font-family: monospace;
 }
 a {
@@ -17,6 +16,10 @@ a:visited {
 	color: purple;	
 }
 table {
-  table-layout:auto;
+	table-layout:auto;
 	width: 100%;
+}
+#player {
+	position: relative;
+	top: 20px;
 }
