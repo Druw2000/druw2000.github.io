@@ -1,5 +1,6 @@
 # README.md can be complied into html locally
 README.html
+build/
 
 # Temp files
 *.swp
