@@ -22,8 +22,9 @@ table {
 #content {
 	overflow: hidden;
 	border-radius: 3px;
-	border: 1px solid black;
+	border: 1px solid #2d2d2d;
 	box-shadow: 0px 0px 10px #ffffff;
+	color: #2d2d2d;
 	background-color: #f5f5f5;
 }
 #header {
@@ -38,6 +39,9 @@ table {
 #header #right {
 	float: right;
 	padding: 0;
+	margin: 5px;
+	position: absolute;
+	display: inline-block;
 }
 #header img {
 	height: auto;
