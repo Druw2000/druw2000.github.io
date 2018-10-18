@@ -23,7 +23,8 @@ table {
 	overflow: hidden;
 	border-radius: 3px;
 	border: 1px solid black;
-	box-shadow: 3px 3px 12px #ffffff;
+	box-shadow: 0px 0px 10px 3px #ffffff;
+	background-color: #f5f5f5;
 }
 #header {
 	overflow: hidden;
