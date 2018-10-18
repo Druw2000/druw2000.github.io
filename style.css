@@ -5,15 +5,15 @@ body {
 	background-color: #088753;
 	font-family: monospace;
 }
-a {
-	color: blue;
+li a {
+	color: #2d2d2d;
+}
+li a:hover {
+	color: #e5000;
 	text-decoration: none;
 }
-a:hover {
-	color: red;
-}
-a:visited {
-	color: purple;	
+li a:visited {
+	color: #800080;	
 }
 table {
 	table-layout:auto;
@@ -23,7 +23,7 @@ table {
 	overflow: hidden;
 	border-radius: 3px;
 	border: 1px solid black;
-	box-shadow: 0px 0px 10px 3px #ffffff;
+	box-shadow: 0px 0px 10px #ffffff;
 	background-color: #f5f5f5;
 }
 #header {
