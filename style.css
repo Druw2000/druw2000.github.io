@@ -3,7 +3,7 @@ body {
 	margin-right: 20%;
 	color: #f5f5f5;
 	background: linear-gradient(#f5f5f5, #2d2d2d);
-	font-family: monospace;
+	font-family: Palatino;
 }
 p {
 	margin:0 0 20px;
@@ -63,20 +63,9 @@ img {
 }
 
 code, pre {
-	font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
-	color:#333;
+	font-family: monospace;
 	font-size:12px;
-	overflow-x:auto;
-}
-
-pre {
-  padding:20px;
-  background: #3A3C42;
-  color:#f8f8f2;
-  margin:0 -20px 20px;
-
-code {
-	color:#f8f8f2;
+	background-color: #888a8d;
 }
 
 th, td {
