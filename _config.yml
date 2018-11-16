@@ -1,7 +1,0 @@
-site: druffen
-description: Andruw's Github Page 
-
-theme: jekyll-theme-modernist
-
-plugins:
-  - jekyll-sitemap
