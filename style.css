@@ -1,6 +1,5 @@
 body {
-	margin-left: 20%;
-	margin-right: 20%;
+  margin: 0;
 	color: #f5f5f5;
 	background: linear-gradient(#f5f5f5, #2d2d2d);
 	font-family: Palatino;
@@ -26,19 +25,19 @@ a:visited {
 }
 
 table {
-	table-layout:auto;
+	table-layout: auto;
 	width: 100%;
 }
 
 #content {
-	padding: 10px;
+  max-width: 600px;
+  margin: auto;
+	padding: 8px 20px 8px 20px;
 	overflow: hidden;
 	border-radius: 3px;
 	border: 1px solid #2d2d2d;
 	color: #2d2d2d;
 	background-color: #f5f5f5;
-	width:640px;
-	margin: 0;
  	border-radius: 8px;
 	box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
 }
