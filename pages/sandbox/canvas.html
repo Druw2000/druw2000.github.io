@@ -2,10 +2,23 @@
 <html>
 	<head>
 		<script>
-			var canvas = document.getElementById("canvas");
-			var ctx = canvas.getContext("2d");
-			ctx.fillStyle = "#FF0000";
-			ctx.fillRect(0,0,200,200);
+			// Setup
+			var state = true;
+			var c = document.getElementById("canvas");
+			var width = c.getAttribute("width");
+			var height = c.getAttribute("height");
+			ctx = c.getContext("2d");
+			// Background
+			ctx.fillStyle = "#000000";
+			ctx.fillRect(0, 0, width, height);
+			// Engine
+			var player = {x:width/2, y:height, a:0};
+			while (state) {
+				player.y -= 9.81;
+			  if (player.y <= 0) {
+				break;
+			  }
+			}
 		</script>
 		<style>
 			canvas {
@@ -14,6 +27,6 @@
 		</style>
 	</head>
 	<body>
-		<canvas id="canvas" width="200px" height="200px"></canvas>
+		<canvas id="canvas" width="512" height="512"></canvas>
 	</body>
 </html>
