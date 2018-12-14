@@ -110,12 +110,12 @@ img {
 }
 
 #footer {
-    text-align: center;
     background-color: #c9c9c9;
     border-radius: 4px;
 }
 
 #code {
+    text-align: center;
     margin: 0.4em 0 0.4em 0;
     font-family: monospace;
     font-size: 16px;
