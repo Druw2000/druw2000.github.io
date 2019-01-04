@@ -22,7 +22,7 @@ body {
     border-radius: 5px;
     color: #2d2d2d;
     background-color: #f5f5f5;
-    box-shadow: #ffffff 0 0 8px;
+    box-shadow: #000000 0 0 8px;
 }
 
 #header {
@@ -86,6 +86,7 @@ a {
 a:hover {
     color: #000FF0;
     text-decoration: underline;
+    font-weight: bold;
 }
 
 a:visited {
