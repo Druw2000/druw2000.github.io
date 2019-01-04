@@ -114,6 +114,7 @@ ul li a {
 
 code {
     font-family: monospace;
+    display: block;
 }
 
 img {
