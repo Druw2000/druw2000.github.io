@@ -1,0 +1,1 @@
+pandoc [input name].md -f markdown -t html -o [output name].html

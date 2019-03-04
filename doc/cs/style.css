@@ -1,0 +1,16 @@
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+html {
+  background-color: #faebd7;
+}
+#content {
+ background-color: white; 
+}
+p {
+  font-family: "Times New Roman";
+  font-size: 14px
+  word-wrap: normal;
+  width: 60%;
+}
