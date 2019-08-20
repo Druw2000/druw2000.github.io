@@ -22,6 +22,10 @@ a {
 	display: block;
 }
 
+#header h1 {
+	display: inline-block;
+}
+
 .pane {
 	/* background-color: #C3C3C3; */
 }
@@ -45,6 +49,6 @@ a {
 }
 
 .icon img {
-	height: 64px;
+	height: auto; /* height: 24px; */
 	width: auto;
 }
