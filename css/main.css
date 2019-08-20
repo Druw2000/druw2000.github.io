@@ -1,0 +1,29 @@
+/* Color palette
+ * Background #525564
+ * Pane #74828F 
+ * Article #96C0CE
+ * Text #FEF6EB
+ * Link #C25B56
+ * Emphasis #BEB9B5
+ */
+
+#container {
+	background-color: #525564;
+	color: #FEF6EB;
+}
+
+.pane {
+	background-color: #74828F;
+}
+
+.article {
+	background-color: #96C0CE;
+}
+
+.article a {
+	color: #C25B56;
+}
+
+.article p {
+
+}
