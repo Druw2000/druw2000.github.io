@@ -19,6 +19,7 @@ a {
 
 #header {
 	/* background-image: ; */
+	display: block;
 }
 
 .pane {
@@ -38,6 +39,12 @@ a {
 }
 
 .icon {
+	display: inline-block;
+	max-width: 20%;
+	margin: 0 2.5%;
+}
+
+.icon img {
 	height: 64px;
 	width: auto;
 }
