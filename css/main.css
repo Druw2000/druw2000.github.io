@@ -17,6 +17,10 @@ a {
 	color: #FEF6EB;
 }
 
+#header {
+	/* background-image: ; */
+}
+
 .pane {
 	/* background-color: #C3C3C3; */
 }
@@ -31,4 +35,9 @@ a {
 
 .article p {
 
+}
+
+.icon {
+	height: 64px;
+	width: auto;
 }
