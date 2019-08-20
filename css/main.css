@@ -7,21 +7,26 @@
  * Emphasis #BEB9B5
  */
 
+a {
+	color: #93e0ff;
+	text-decoration: none;
+}
+
 #container {
 	background-color: #525564;
 	color: #FEF6EB;
 }
 
 .pane {
-	background-color: #74828F;
+	/* background-color: #C3C3C3; */
 }
 
 .article {
-	background-color: #96C0CE;
+	background-color: #6f6f6f;
 }
 
 .article a {
-	color: #C25B56;
+	color: #FFE733;
 }
 
 .article p {
