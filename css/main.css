@@ -9,10 +9,12 @@
 
 h1 {
 	font-family: 'Roboto Slab';
+	margin: 0;
 }
 
 h2 {
 	font-family: 'Roboto Slab';
+	margin: 0.3em;
 }
 
 a {
@@ -36,11 +38,14 @@ body {
 }
 
 .pane {
-	/* background-color: #C3C3C3; */
+	/* border-bottom: 0.15em solid white; */
+	margin: 0.3em 0 0.3em 0;
 }
 
 .article {
-	background-color: #6f6f6f;
+	margin: 0.3em;
+	padding: 0.3em;
+	background-color: #525564;
 }
 
 .article a {
@@ -48,7 +53,7 @@ body {
 }
 
 .article p {
-
+	margin: 0.15em 0 0.15em 0;
 }
 
 .icon {
