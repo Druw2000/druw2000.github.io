@@ -7,6 +7,11 @@
  * Emphasis #BEB9B5
  */
 
+#wrapper {
+     width: 800px;
+     margin: 0 auto;
+}
+
 h1 {
 	font-family: 'Roboto Slab';
 }
