@@ -7,6 +7,14 @@
  * Emphasis #BEB9B5
  */
 
+h1 {
+	font-family: 'Roboto Slab';
+}
+
+h2 {
+	font-family: 'Roboto Slab';
+}
+
 a {
 	color: #93e0ff;
 	text-decoration: none;
@@ -15,6 +23,7 @@ a {
 body {
 	background-color: #525564;
 	color: #FEF6EB;
+	font-family: 'Roboto';
 }
 
 #header {
