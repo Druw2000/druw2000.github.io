@@ -16,12 +16,30 @@ h1 {
 	font-family: 'Roboto Slab';
 }
 
+h1 a {
+	color: inherit;
+}
+
 h2 {
+	color: #A0A0A0;
 	font-family: 'Roboto Slab';
 }
 
+h3 {
+	border-bottom: 1px dashed #FEF6EB;
+}
+
+
+p {
+	margin: 1em 0 1em 0;
+}
+
+p.tabbed {
+	text-indent: 1em;
+}
+
 a {
-	color: #93e0ff;
+	color: #93E0FF;
 	text-decoration: none;
 }
 
@@ -72,4 +90,15 @@ body {
 .icon img {
 	height: auto; /* height: 24px; */
 	width: auto;
+}
+
+.redacted {
+	color: red;
+	font-weight: bold;
+	text-decoration: line-through;
+	animation: blinker 2s linear infinite;
+}
+
+@keyframes blinker {  
+  50% { opacity: 0; }
 }
