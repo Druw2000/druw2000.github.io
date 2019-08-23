@@ -82,6 +82,7 @@ body {
 	background: #2D2D2D url("../img/mint-banner.svg") no-repeat;
 	background-size: 100%;
 	display: block;
+	border-bottom: 1px solid white;
 }
 
 #header h1 {
@@ -95,7 +96,7 @@ body {
 
 .pane {
 	padding: 0.5em;
-	border: 1px solid white;
+	border-left: 1px solid white;
 	background-color: #3c3c3c;
 }
 
