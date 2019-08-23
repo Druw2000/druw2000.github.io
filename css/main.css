@@ -79,7 +79,8 @@ body {
 }
 
 #header {
-	background: url("../img/gradient-web-banner.png") no-repeat;
+	background: #2D2D2D url("../img/mint-banner.svg") no-repeat;
+	background-size: 100%;
 	display: block;
 }
 
