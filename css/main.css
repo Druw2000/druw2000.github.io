@@ -21,15 +21,30 @@
 	-webkit-font-smoothing: antialiased;
 }
 
-#wrapper {
-	width: 800px;
+.wrapper {
 	margin: 0 auto;
 	box-shadow: 0 0 12px 4px white;
+}
+
+.wrapper-left {
+	width: auto;
+	float: left;
+}
+
+.wrapper-right {
+	width: auto;
+	float: right;
+}
+
+#main {
+	width: 800px;
 }
 
 body {
 	margin: 0;
 	background: url(../img/wallpaper.jpg) no-repeat center;
+	background-position:center top;
+	background-attachment:fixed;
 }
 
 h1 {
