@@ -1,43 +1,35 @@
-/* Color palette
- * Background #525564
- * Pane #74828F 
- * Article #96C0CE
- * Text #FEF6EB
- * Link #C25B56
- * Emphasis #BEB9B5
- */
-
-/* === CUSTOM LIST === */
 .list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+	list-style: none;
+	padding: 0;
+	margin: 0;
 }
 
 .list li {
-  padding-left: 16px;
+	padding-left: 16px;
 }
 
 .list li:before {
-  content: "\f104";
-  margin: 0 8px 0 8px; /* must match style in .icon */
-  font-size: 12px; /* must match style in .icon */
-  color: white; /* must match style in .icon */
-  font-family: fico;
-  font-weight: normal !important;
-  font-style: normal !important;
-  text-transform: none !important;
-  vertical-align: baseline;
-  -webkit-font-smoothing: antialiased;
+	content: "\f104";
+	margin: 0 8px 0 8px; /* must match style in .icon */
+	font-size: 12px; /* must match style in .icon */
+	color: white; /* must match style in .icon */
+	font-family: fico;
+	font-weight: normal !important;
+	font-style: normal !important;
+	text-transform: none !important;
+	vertical-align: baseline;
+	-webkit-font-smoothing: antialiased;
 }
 
 #wrapper {
-     width: 800px;
-     margin: 0 auto;
+	width: 800px;
+	margin: 0 auto;
+	box-shadow: 0 0 12px 4px white;
 }
 
 body {
 	margin: 0;
+	background: url(img/wallpaper.jpg) no-repeat center;
 }
 
 h1 {
@@ -57,7 +49,6 @@ h2 {
 h3 {
 	border-bottom: 1px dashed #FEF6EB;
 }
-
 
 p {
 	margin: 1em 0 1em 0;
@@ -137,5 +128,5 @@ body {
 }
 
 @keyframes blinker {  
-  50% { opacity: 0; }
+	50% { opacity: 0; }
 }
