@@ -1,10 +1,10 @@
 # andruwne.github.io
 ugh...markdown
-# about
+## About
 'stage' branch is merged into 'master' on Sundays.
 
-# design
-## layout
+## Design
+### Layout
 Main content is used as such, first body then 'wrapper' then 'pane'.
 ```
 <body>
@@ -26,7 +26,7 @@ Main content is used as such, first body then 'wrapper' then 'pane'.
 <div class="wrapper wrapper-right">
 ```
 
-## Colorscheme
+### Colorscheme
 Generated from [www.colormind.io](https://colormind.io).
 navy      #142544
 blueberry #8283AE
