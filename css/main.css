@@ -1,29 +1,6 @@
-<<<<<<< HEAD
 #wrapper {
 	width: 800px;
 	margin: 0 auto;
-=======
-.list {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
-
-.list li {
-	padding-left: 16px;
-}
-
-.list li:before {
-	content: "\f104";
-	margin: 0 8px 0 8px; /* must match style in .icon */
-	font-size: 12px; /* must match style in .icon */
-	color: white; /* must match style in .icon */
-	font-family: fico;
-	font-weight: normal !important;
-	font-style: normal !important;
-	text-transform: none !important;
-	vertical-align: baseline;
-	-webkit-font-smoothing: antialiased;
 }
 
 .wrapper {
@@ -43,7 +20,6 @@
 
 #main {
 	width: 800px;
->>>>>>> eba166bc2f734e9ec98a09967c1c05b6c38e7e2c
 }
 
 body {
