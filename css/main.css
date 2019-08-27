@@ -91,11 +91,11 @@ body {
 
 .article {
 	/* background-color: #525564; */
-	color: inherit;
+	/* color: inherit; */
 }
 
 .article a {
-	color: inherit;
+	/* color: inherit; */
 	/* color: #FFE733; */
 }
 
@@ -124,6 +124,16 @@ body {
 	text-transform: none !important;
 	vertical-align: baseline;
 	-webkit-font-smoothing: antialiased;
+}
+
+::-moz-selection { 
+	background-color: #BA9EB0; 
+	color: #ffffff;
+}
+
+::selection {
+	background-color: #BA9EB0;
+	color: #ffffff;
 }
 
 .icon {
