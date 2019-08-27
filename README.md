@@ -1,5 +1,6 @@
 # andruwne.github.io
-ugh...markdown
+I am not a fan of Markdown. For some reason I have to use two spaces and a line break to get a newline.
+
 ## About
 'stage' branch is merged into 'master' on Sundays.
 
@@ -27,9 +28,11 @@ Main content is used as such, first body then 'wrapper' then 'pane'.
 ```
 
 ### Colorscheme
-Generated from [www.colormind.io](https://colormind.io).
+Generated from [www.colormind.io](https://colormind.io).  
+<pre>
 navy      #142544
 blueberry #8283AE
 bluegrey  #97A7B8
 pink      #F67EAA
 burgundy  #834265
+</pre>
