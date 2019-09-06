@@ -1,6 +1,5 @@
 .wrapper {
 	margin: 0 auto;
-	box-shadow: 0 0 12px 4px #ffffff;
 }
 
 .wrapper-left {
@@ -80,7 +79,8 @@ body {
 
 .pane {
 	padding: 0.5em;
-	/* border-left: 1px solid white; */
+	margin: 1em 0 1em 0;
+	box-shadow: 0 0 12px 4px #ffffff;
 	background-color: #3c3c3c;
 }
 
