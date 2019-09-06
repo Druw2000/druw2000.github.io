@@ -121,14 +121,14 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
-::-moz-selection { 
-	background-color: #ababab; 
-	color: #ffffff;
+::selection {
+	background: #b3d4fc;
+	text-shadow: none;
 }
 
-::selection {
-	background-color: #ababab;
-	color: #ffffff;
+::-moz-selection { 
+	background: #b3d4fc;
+	text-shadow: none;
 }
 
 .icon {
