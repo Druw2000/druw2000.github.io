@@ -1,26 +1,3 @@
-.list {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
-
-.list li {
-	padding-left: 16px;
-}
-
-.list li:before {
-	content: "\f104";
-	margin: 0 8px 0 8px; /* must match style in .icon */
-	font-size: 12px; /* must match style in .icon */
-	color: white; /* must match style in .icon */
-	font-family: fico;
-	font-weight: normal !important;
-	font-style: normal !important;
-	text-transform: none !important;
-	vertical-align: baseline;
-	-webkit-font-smoothing: antialiased;
-}
-
 .wrapper {
 	margin: 0 auto;
 	box-shadow: 0 0 12px 4px white;
@@ -97,25 +74,61 @@ body {
 }
 
 #footer {
-	
+	/* background-color: #3C3C3C */
+	color: inherit;	
 }
 
 .pane {
 	padding: 0.5em;
-	border-left: 1px solid white;
+	/* border-left: 1px solid white; */
 	background-color: #3c3c3c;
 }
 
 .article {
 	/* background-color: #525564; */
+	/* color: inherit; */
 }
 
 .article a {
-	color: #FFE733;
+	/* color: inherit; */
+	/* color: #FFE733; */
 }
 
 .article p {
-	
+	color: inherit
+}
+
+.list {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.list li {
+	padding-left: 16px;
+}
+
+.list li:before {
+	content: "\f104";
+	margin: 0 8px 0 8px; /* must match style in .icon */
+	font-size: 12px; /* must match style in .icon */
+	color: white; /* must match style in .icon */
+	font-family: fico;
+	font-weight: normal !important;
+	font-style: normal !important;
+	text-transform: none !important;
+	vertical-align: baseline;
+	-webkit-font-smoothing: antialiased;
+}
+
+::-moz-selection { 
+	background-color: #BA9EB0; 
+	color: #ffffff;
+}
+
+::selection {
+	background-color: #BA9EB0;
+	color: #ffffff;
 }
 
 .icon {
