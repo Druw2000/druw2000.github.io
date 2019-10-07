@@ -7,9 +7,17 @@
 	float: left;
 }
 
+.wrapper-left .pane {
+	margin: 0;
+}
+
 .wrapper-right {
 	width: auto;
 	float: right;
+}
+
+.wrapper-right .pane {
+	margin: 0;
 }
 
 #main {
@@ -39,6 +47,7 @@ h2 {
 
 h3 {
 	border-bottom: 1px dashed #fef6eb;
+	font-size: 1.2em;
 }
 
 p {
@@ -168,7 +177,7 @@ body {
 	font-weight: bold;
 	text-decoration: line-through;
 	opacity: 0.0;
-	-webkit-animation: pulsate .5s ease-out;
+	-webkit-animation: pulsate 1s ease-out;
 	-webkit-animation-iteration-count: infinite;
 }
 
