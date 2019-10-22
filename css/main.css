@@ -143,6 +143,10 @@ body {
 	width: 100%;
 }
 
+.hidden {
+	visibility: hidden;	
+}
+
 ::selection {
 	background: #b3d4fc;
 	color: #fef6eb;
