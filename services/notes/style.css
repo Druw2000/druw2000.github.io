@@ -1,0 +1,46 @@
+.inbox {
+
+}
+
+.item {
+	border: 1px solid black;
+	margin: 1em 0 1em 0;
+}
+
+.header {
+	border-bottom: 1px solid black;
+}
+
+.header input {
+	display: inline-block;
+}
+
+.remove {
+	color: red;
+}
+
+.pin {
+	color: orange;
+}
+
+.create {
+	color: green;
+}
+
+.date {
+	display: inline-block;
+	color: #696969;
+}
+
+.age {
+	display: inline-block;
+	color: #696969;
+}
+
+.content {
+	display: inline-block;
+}
+
+.action {
+	display: inline-block;
+}

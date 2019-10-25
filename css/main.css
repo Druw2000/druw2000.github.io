@@ -135,12 +135,15 @@ body {
 }
 
 .gallery {
-		
 }
 
 .gallery img {
 	height: auto;
 	width: 100%;
+}
+
+.hidden {
+	display: none;
 }
 
 ::selection {
