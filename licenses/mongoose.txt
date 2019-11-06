@@ -1,0 +1,30 @@
+End User License Agreement for Mongoose Binary
+This End User License Agreement (EULA) is a legal agreement between you (either an individual or a legal entity) and Cesanta Software Limited the Author of the Software product identified above, which includes computer software and may include associated media and “online” or electronic documentation (“SOFTWARE PRODUCT”). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bounded by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.
+Software Product License
+1. GRANT OF LICENSE.
+This EULA grants you the following rights:
+Installation and Use.
+FREE SOFTWARE PRODUCT - Is for Personal use only. You may install and use an unlimited number of copies. No use for Commercial purposes allowed.
+
+PAID SOFTWARE PRODUCT - Is for Personal and Commercial use. It can only be installed and used on the basis of one license per unique device [a desktop, notebook, netbook, smartphone, tablet or similar computer owned by and in the control of the Licensee].
+
+Reproduction and Distribution.
+Cesanta Software Limited prohibits distribution by the third parties for both FREE and PAID software products. Unless the right to commercially distribute is expressly acquired and permitted by the Cesanta Software Limited. In this case the number of distributions is defined by the commercial terms between Cesanta Software Limited and the Licensee and indicated in the Licensee’s personal cabinet on www.cesanta.com. Distribution is considered to be an installation on more than ONE unique device [a desktop, notebook, netbook, smartphone, tablet or similar computer owned by and in the control of the Licensee].
+2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+Limitations on Reverse Engineering, Decompilation, Disassembly and change (add,delete or modify) of the resources in the compiled assembly. You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+Update and Maintenance.
+Upgrades for the FREE version of SOFTWARE PRODUCT are FREE of charge. PAID version of the SOFTWARE PRODUCT is eligible for the software updates during one calendar year after the purchase date or until the subscription is terminated. Cesanta Software Limited reserves the right to conduct version distribution tracking for the SOFTWARE PRODUCT.
+Separation of Components.
+The SOFTWARE PRODUCT is licensed as a single product. Its component parts may not be separated for use on more than one computer.
+Software Transfer.
+You may not permanently transfer any of your rights under this EULA.
+Termination.
+Without prejudice to any other rights, the Author of this Software may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT and all of its component parts.
+3. COPYRIGHT
+All title and copyrights in and to the SOFTWARE PRODUCT (including but not limited to any images, photographs, clipart, libraries, and examples incorporated into the SOFTWARE PRODUCT), the accompanying online materials, and any copies of the SOFTWARE PRODUCT are owned by the Author of this Software. The SOFTWARE PRODUCT is protected by copyright laws and international treaty provisions. Therefore, you must treat the SOFTWARE PRODUCT like any other copyrighted material.
+Limited Warranty.
+NO WARRANTIES. The Author of this Software expressly disclaims any warranty for the SOFTWARE PRODUCT. The SOFTWARE PRODUCT and any related documentation is provided “as is” without warranty of any kind, either express or implied, including, without limitation, the implied warranties or merchantability, fitness for a particular purpose, or noninfringement. The entire risk arising out of use or performance of the SOFTWARE PRODUCT remains with you.
+No Liability For Damages.
+In no event shall the Author of this Software be liable for any special, consequential, incidental or indirect damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use this product, even if the Author of this Software is aware of the possibility of such damages and known defects.
+4. CESANTA PRIVACY POLICY
+Cesanta considers data protection and privacy to be of paramount importance. We processing operations in strict compliance with the EU General Data Protection Regulation (“GDPR”) (specifically but not limited to Article 6(1)(b) to (f) and Article 28) as well as the Laws of Republic of Ireland (together the “Applicable Law”), where Cesanta is incorporated. We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. Cesanta Privacy Policy is outlined at https://cesanta.com/privacy.html.
