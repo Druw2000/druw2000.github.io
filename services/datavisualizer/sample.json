@@ -1,0 +1,2444 @@
+{
+    "more": false,
+    "more_start": false,
+    "rgCurrency": [],
+    "rgDescriptions": {
+        "1989279241_302028390": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D3201616812892939692",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "classid": "1989279241",
+            "commodity": 1,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "limited": 1
+                    },
+                    "color": "00a000",
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pPuIHnX7ZHmWfCXbTg4-H7FfNmmKqGKgsO-dEW3MQe0pQF0BeaQC9jJKP86ObhZoysdVrCO7mEhyDBs9ftFPYAOil3dCMuwmmathoCml",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0pPuIHnX7ZAjILjPeGRBsTuZYN2iM-mHwt7-cFjvOQOB4EloAfaRX8DcdPsjdaRBohoADr2fg2VRzGVArfclJYgKuxmAaIbE8lSJDJpoBmM605n2q",
+            "instanceid": "302028390",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D3201616812892939692",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "Sealed Graffiti | Eye Spy (Shark White)",
+            "market_name": "Sealed Graffiti | Eye Spy (Shark White)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "Sealed Graffiti | Eye Spy (Shark White)",
+            "name_color": "D2D2D2",
+            "owner_descriptions": "",
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "b0c3d9",
+                    "internal_name": "Rarity_Common",
+                    "name": "Base Grade"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "category_name": "Graffiti Color",
+                    "internal_name": "Tint19",
+                    "name": "Shark White"
+                }
+            ],
+            "tradable": 1,
+            "type": "Base Grade Graffiti"
+        },
+        "1989282560_302028390": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7668619729482853742",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "classid": "1989282560",
+            "commodity": 1,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "This is a sealed container of a graffiti pattern. Once this graffiti pattern is unsealed, it will provide you with enough charges to apply the graffiti pattern <b>50</b> times to the in-game world."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "limited": 1
+                    },
+                    "color": "00a000",
+                    "type": "html",
+                    "value": ""
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0su2fDm25bWCWeXKPT1sxTLBaYDrb-GX2t7_BQ2rOFbotEVhXLKoCpzBJNciBOQx9itAdqGq0mFZwCxo8e9VKaVLjzCMXZLnfbbTC8g",
+            "icon_url_large": "IzMF03bi9WpSBq-S-ekoE33L-iLqGFHVaU25ZzQNQcXdB2ozio1RrlIWFK3UfvMYB8UsvjiMXojflsZalyxSh31CIyHz2GZ-KuFpPsrTzBG0su2fDm3IZDbWKCSXSQ5sTLRXYzzd_mGnt-vGFjGYR7okEV9RL6VWp2RAaMuNPUdrh4MPqSuomUM7HRkkfddLZQOvw2QfKOB9znYWcM_9-hUgqw",
+            "instanceid": "302028390",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7668619729482853742",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "Sealed Graffiti | Sorry (Dust Brown)",
+            "market_name": "Sealed Graffiti | Sorry (Dust Brown)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "Sealed Graffiti | Sorry (Dust Brown)",
+            "name_color": "D2D2D2",
+            "owner_descriptions": "",
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Spray",
+                    "name": "Graffiti"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "b0c3d9",
+                    "internal_name": "Rarity_Common",
+                    "name": "Base Grade"
+                },
+                {
+                    "category": "SprayColorCategory",
+                    "category_name": "Graffiti Color",
+                    "internal_name": "Tint4",
+                    "name": "Dust Brown"
+                }
+            ],
+            "tradable": 1,
+            "type": "Base Grade Graffiti"
+        },
+        "3585448337_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2594826473700278310",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-12T08:00:00Z",
+            "classid": "3585448337",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs. It has been hand painted with flames and a winged defuser in white atop a dark grey base.\n\n<i>For those who live fast</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Danger Zone Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW09--m5CbkuXLNLPehX9u5Mx2gv2Pptuh0QXnrxJoamvwJ4SXcVJrZQuB-wfowee-h5bv75-YziNqviIq7WGdwULQRBs-zw",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW09--m5CbkuXLNLPehX9u5Mx2gv3--Y3nj1H6-ERoamjwcNeRewQ9YlrS-QXrxb2-hMDqvJSYy3Iw6SJz4i7Umxe_iQYMMLJAgtH0rg",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2594826473700278310",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "M4A4 | Magnesium (Minimal Wear)",
+            "market_name": "M4A4 | Magnesium (Minimal Wear)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "M4A4 | Magnesium",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 12, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Rifle",
+                    "name": "Rifle"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_m4a1",
+                    "name": "M4A4"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_21",
+                    "name": "The Danger Zone Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "4b69ff",
+                    "internal_name": "Rarity_Rare_Weapon",
+                    "name": "Mil-Spec Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "name": "Minimal Wear"
+                }
+            ],
+            "tradable": 0,
+            "type": "Mil-Spec Grade Rifle"
+        },
+        "3585449917_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16450532802188554137",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-12T08:00:00Z",
+            "classid": "3585449917",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement. It has been hand painted with a blue and grey design and finished with orange accents.\n\n<i>A ScyTech procurement</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Spectrum 2 Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhIiKmeP7PoTdn2xZ_Isk2-_CoduiiwXk-UdqYm2lItCQcAY2YQzTqFa8we7rhZ7vtcnLwXpipGB8snPKL3t3",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf1OD3YjoXuY-JhIiKmeP7PoTdn2xZ_Pp9i_vG8MKg2VK3_0RrMGjzJoKTcwJoZw7V-FG2wbrs15G-vJ3NyXows3Qg7XfcgVXp1o9GB_Io",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16450532802188554137",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "SG 553 | Phantom (Minimal Wear)",
+            "market_name": "SG 553 | Phantom (Minimal Wear)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "SG 553 | Phantom",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 12, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Rifle",
+                    "name": "Rifle"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_sg556",
+                    "name": "SG 553"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_18",
+                    "name": "The Spectrum 2 Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "8847ff",
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "name": "Restricted"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "name": "Minimal Wear"
+                }
+            ],
+            "tradable": 0,
+            "type": "Restricted Rifle"
+        },
+        "3585458088_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D10270039385131351184",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-12T08:00:00Z",
+            "classid": "3585458088",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Factory New"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs. This custom paint job is inspired by elements found on de_nuke from Counter-Strike 1.6.\n\n<i>If found please return to Cedar Creek Nuclear Power Plant</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The CS20 Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf18l4jeHVu9z2jg3g-kE5YWulIoSTJwA5ZArX_FS-x725h8C-uJ2Yz3YyuiVw533D30vg-FCoJ8s",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmpWAksjgNrXCn2Rf18l4jeHVyoD0mlOx5UM_NWD3JYTAcARoZ1rWr1e5xLzog5O8us6fyyRhviBz43uMnxDlgxpSLrs4241xVvs",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D10270039385131351184",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "FAMAS | Decommissioned (Factory New)",
+            "market_name": "FAMAS | Decommissioned (Factory New)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "FAMAS | Decommissioned",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 12, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Rifle",
+                    "name": "Rifle"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_famas",
+                    "name": "FAMAS"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_24",
+                    "name": "The CS20 Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "4b69ff",
+                    "internal_name": "Rarity_Rare_Weapon",
+                    "name": "Mil-Spec Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory0",
+                    "name": "Factory New"
+                }
+            ],
+            "tradable": 0,
+            "type": "Mil-Spec Grade Rifle"
+        },
+        "3585463096_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D3218077854863265435",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-12T08:00:00Z",
+            "classid": "3585463096",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Factory New"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil. It has been custom painted with sectioned blue hexagons designed to fit the P90\u2019s unique shape.\n\n<i>Half the battle is keeping a hold of the weapon; the other half is hitting the target</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Horizon Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FABz7OORIQJW_tm3kL-HnvD8J_WBl2hTsJJ1j7rF99qljQW3-0Q9Mmj2LdDBd1Q2Y1vYqFC_k7zn057qot2XnsJUPN1Z",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FABz7OORIQJW_tm3kL-HnvD8J4Tdl3lW7Yshi-rDrdvxjQewqUVsNmigJIHEIwc7aA6E_wO2w-3n15e97s_Bn3o1pGB8sruBYQjh",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D3218077854863265435",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "P90 | Traction (Factory New)",
+            "market_name": "P90 | Traction (Factory New)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "P90 | Traction",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 12, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_SMG",
+                    "name": "SMG"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_p90",
+                    "name": "P90"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_20",
+                    "name": "The Horizon Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "4b69ff",
+                    "internal_name": "Rarity_Rare_Weapon",
+                    "name": "Mil-Spec Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory0",
+                    "name": "Factory New"
+                }
+            ],
+            "tradable": 0,
+            "type": "Mil-Spec Grade SMG"
+        },
+        "3585465774_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D9864255944825857701",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-12T08:00:00Z",
+            "classid": "3585465774",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Factory New"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs. It has been hand painted to resemble the green metal crates originally found on de_dust2.\n\n<i>Rush B, don't stop</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The CS20 Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1Rd4cJ5nqeYrdSt2QK1_EY-MG3ycoWRIVQ_aQmGrFi_krvph5O6vpTAmHsyvyJx-z-DyBq6lOsN",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJkJWYg8j3IbrFk1Rd4cJ5ntbN9J7yjRrt80tkYm-iI4PHIQI_N1vUqQO_yb-505-978jPy3dluCkrtHaMmhfkn1gSOWILGKqQ",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D9864255944825857701",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "MAC-10 | Classic Crate (Factory New)",
+            "market_name": "MAC-10 | Classic Crate (Factory New)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "MAC-10 | Classic Crate",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 12, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_SMG",
+                    "name": "SMG"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_mac10",
+                    "name": "MAC-10"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_24",
+                    "name": "The CS20 Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "4b69ff",
+                    "internal_name": "Rarity_Rare_Weapon",
+                    "name": "Mil-Spec Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory0",
+                    "name": "Factory New"
+                }
+            ],
+            "tradable": 0,
+            "type": "Mil-Spec Grade SMG"
+        },
+        "3585555264_302028390": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2615514424281967843",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-12T08:00:00Z",
+            "classid": "3585555264",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Factory New"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat. It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\n\n<i>By the time you're close enough to notice the pixels it's already too late</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Bank Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957PfMYTxW09C_k4if2aemY-zXlD5X7ZVw2-yTpI_xjFXm8xZsY2ylI4-TclA8NQvU_VO2k-fxxcjrEfavWb4",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFA957PfMYTxW09C_k4ifqPv1IbzU2DsDuJJ3iLzH8Nz02VHm-hA4NzjxLNOVcgNoZlHW-ge8lb3rgpS07pTXiSw0SmKF74k",
+            "instanceid": "302028390",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2615514424281967843",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "MP7 | Forest DDPAT (Factory New)",
+            "market_name": "MP7 | Forest DDPAT (Factory New)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "MP7 | Forest DDPAT",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 12, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_SMG",
+                    "name": "SMG"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_mp7",
+                    "name": "MP7"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_bank",
+                    "name": "The Bank Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "b0c3d9",
+                    "internal_name": "Rarity_Common_Weapon",
+                    "name": "Consumer Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory0",
+                    "name": "Factory New"
+                }
+            ],
+            "tradable": 0,
+            "type": "Consumer Grade SMG"
+        },
+        "3585812019_0": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D4660703134282477081",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-12T08:00:00Z",
+            "classid": "3585812019",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team. It has a figured walnut stock."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Inferno Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj4OrzZgiUCsMZ12u-Zrd2j2lGw80s5MWHycNCSc1A7NwrR8lC9yL3s1JW675rO1zI97bNGh6Jj",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj4OrzZglRd6dd2j6eSrY_x2FLs80JqYTynLI7AIA4_NQ7X-we7l7zujZe_tc7KmHFl6Scl-z-DyNBQmnDO",
+            "instanceid": "0",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D4660703134282477081",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "Nova | Walnut (Minimal Wear)",
+            "market_name": "Nova | Walnut (Minimal Wear)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "Nova | Walnut",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 12, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Shotgun",
+                    "name": "Shotgun"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_nova",
+                    "name": "Nova"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_inferno",
+                    "name": "The Inferno Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "b0c3d9",
+                    "internal_name": "Rarity_Common_Weapon",
+                    "name": "Consumer Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "name": "Minimal Wear"
+                }
+            ],
+            "tradable": 0,
+            "type": "Consumer Grade Shotgun"
+        },
+        "3586511248_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D5640769573193932857",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586511248",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Factory New"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil. A custom paint job comprised of intricate teal and coral veins has been applied.\n\n<i>20 over 100</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Spectrum Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTHk2Jf18l4jeHVu9ij3FG3_UptMWqgJ9WcIQ48aQmB-wC2leq6h8S8u5udmCNn6Cdz4SnD30vgWlTck20",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTj5X09q_goWYkuHxPYTHk2Jf18l4jeHVyoD0mlOx5UdqZzygIo-UIAVtYgvZqVm8yb--hMe06JmcyyBjvSZ2tC7ZzRLmhU5SLrs4vYCxZks",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D5640769573193932857",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "Five-SeveN | Capillary (Factory New)",
+            "market_name": "Five-SeveN | Capillary (Factory New)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "Five-SeveN | Capillary",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_fiveseven",
+                    "name": "Five-SeveN"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_16",
+                    "name": "The Spectrum Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "4b69ff",
+                    "internal_name": "Rarity_Rare_Weapon",
+                    "name": "Mil-Spec Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory0",
+                    "name": "Factory New"
+                }
+            ],
+            "tradable": 0,
+            "type": "Mil-Spec Grade Pistol"
+        },
+        "3586512058_302028390": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11532850607270402145",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586512058",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Battle-Scarred"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy. It has been spray-painted using mesh fencing and cardboard cutouts as stencils.\n\n<i>A predator is a predator, no matter the environment</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Lake Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7P7NYjV9-N24q4iOluHtfemJxzkCv5V3ibCToN33igXj_hdqZTv6IIWWdwZoNQzT-1O7xO3tgJai_MOeifog2Vk",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7P7NYjV9-N24q4iOluHtDLfQhGxUppcp27uSotzziw3m_kI-MWj0IdKTdFQ3ZVvT_1HolbrshJS5uZ7LzHJ9-n51G8gf2rM",
+            "instanceid": "302028390",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11532850607270402145",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "AWP | Safari Mesh (Battle-Scarred)",
+            "market_name": "AWP | Safari Mesh (Battle-Scarred)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "AWP | Safari Mesh",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_SniperRifle",
+                    "name": "Sniper Rifle"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_awp",
+                    "name": "AWP"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_lake",
+                    "name": "The Lake Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "5e98d9",
+                    "internal_name": "Rarity_Uncommon_Weapon",
+                    "name": "Industrial Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory4",
+                    "name": "Battle-Scarred"
+                }
+            ],
+            "tradable": 0,
+            "type": "Industrial Grade Sniper Rifle"
+        },
+        "3586512602_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D13853224220834154083",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586512602",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range. It has been engraved with a mythological motif.\n\n<i>A beast in Indian mythology as well as on the battlefield</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Chroma Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjlH7du6kb-FlvD1DLfYkWNFpscl27nA8dSm3Vbl80poMm33LICSdFdrYV3Z-lS2x-zmjcfqvs6bynF9-n51bHG-s3k",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLZTjlH7du6kb-FlvD1DLfYkWNF18lwmO7Eu46h2QS1r0tvZjvyLI-RIwI6aV7X_ADrwevmhZO0up_AwSM1uHNw5nzD30vgQ0tV-jw",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D13853224220834154083",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "Desert Eagle | Naga (Minimal Wear)",
+            "market_name": "Desert Eagle | Naga (Minimal Wear)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "Desert Eagle | Naga",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_deagle",
+                    "name": "Desert Eagle"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_6",
+                    "name": "The Chroma Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "8847ff",
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "name": "Restricted"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "name": "Minimal Wear"
+                }
+            ],
+            "tradable": 0,
+            "type": "Restricted Pistol"
+        },
+        "3586514105_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11711826525382490847",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586514105",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice. It has been custom painted to look as though it just came out of the forge.\n\n<i>Make some outlines of your own</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Chroma 2 Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhjxszFcDoV086zkIiEg8j4OrzZgiUGvpUp3eiZptrw0Fft8xU4Ymn0IoPEdlQ7ZwyDq1i6x7y-gMfv7pmd1zI97Us53qRd",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhjxszFcDoV086zkIiEg8j4OrzZglRd6dd2j6eWo9yt31Xs-EU5azr6LNDBcwY5Z12B_gO7x7q81J-4us-YzCMw6CR2-z-DyH05vt6N",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11711826525382490847",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "MAG-7 | Heat (Minimal Wear)",
+            "market_name": "MAG-7 | Heat (Minimal Wear)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "MAG-7 | Heat",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Shotgun",
+                    "name": "Shotgun"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_mag7",
+                    "name": "MAG-7"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_7",
+                    "name": "The Chroma 2 Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "8847ff",
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "name": "Restricted"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "name": "Minimal Wear"
+                }
+            ],
+            "tradable": 0,
+            "type": "Restricted Shotgun"
+        },
+        "3586515915_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D16493453285882767259",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586515915",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Factory New"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire. A custom paint job of various tribal patterns has been applied.\n\n<i>We share the same canoe</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Prisma Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV092sgIWIqPv9NLPF2DgHsMEo2uvAoo722AW1qkZqZ2H6I4-XIw43Z1qErFS9xe3thp7vuc7XiSw0BOl_x_w",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV092sgIWIqPv9NLPFqWdQ-sJ0xLqXrYis2Fa1_BE_Y2iidYOTdg43ZlHSq1m3x-y705O_uJ7Lynowv3M8pSGK7lPtmXQ",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D16493453285882767259",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "AK-47 | Uncharted (Factory New)",
+            "market_name": "AK-47 | Uncharted (Factory New)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "AK-47 | Uncharted",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Rifle",
+                    "name": "Rifle"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_ak47",
+                    "name": "AK-47"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_22",
+                    "name": "The Prisma Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "4b69ff",
+                    "internal_name": "Rarity_Rare_Weapon",
+                    "name": "Mil-Spec Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory0",
+                    "name": "Factory New"
+                }
+            ],
+            "tradable": 0,
+            "type": "Mil-Spec Grade Rifle"
+        },
+        "3586515916_302028390": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D12593197256673810763",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586515916",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Battle-Scarred"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise. It has been spray-painted using leaves as stencils."
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Safehouse Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yOluHxIITZk2pH8Ysg2rmU9N-n21eyqkc9MjilIteRcFA8YwnX_lbvxurv1JG4ucufwXFgpGB8sj-OhYOg",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yOluHxIITZk2pH8fp9i_vG8MKk2AThqkBuYDqldYLEI1doZwnU-Ae8w7_ogZHtu5nJmHVnv3Z07XzegVXp1uvf8NxD",
+            "instanceid": "302028390",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D12593197256673810763",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "USP-S | Forest Leaves (Battle-Scarred)",
+            "market_name": "USP-S | Forest Leaves (Battle-Scarred)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "USP-S | Forest Leaves",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_usp_silencer",
+                    "name": "USP-S"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_safehouse",
+                    "name": "The Safehouse Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "5e98d9",
+                    "internal_name": "Rarity_Uncommon_Weapon",
+                    "name": "Industrial Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory4",
+                    "name": "Battle-Scarred"
+                }
+            ],
+            "tradable": 0,
+            "type": "Industrial Grade Pistol"
+        },
+        "3586515917_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D14451070852889960096",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-12T08:00:00Z",
+            "classid": "3586515917",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Factory New"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic. It has been painted using a combination of hydrographics and heat-transfer decals.\n\n<i>If you didn't want collateral damage, perhaps you should have been more specific... - Javier Alviso, Fist of the Phoenix</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Falchion Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535"
+                    },
+                    "type": "html",
+                    "value": "<br><div id=\"sticker_info\" name=\"sticker_info\" title=\"Sticker\" style=\"border: 2px solid rgb(102, 102, 102); border-radius: 6px; width=100; margin:4px; padding:8px;\"><center><img width=64 height=48 src=\"https://steamcdn-a.akamaihd.net/apps/730/icons/econ/stickers/feral_predators/one_sting_glossy.64859e3b7ef52e3c8487f3d9bafeda737e057c0b.png\"><br>Sticker: One Sting</center></div>"
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLfYkWNFppUlie2Zod-n2Ffg-ERsMTqmcIeRIwU3aVGC-gS_xe-808C6u8iawXp9-n51mEUNdNg",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0Ob3ZDBSuImJgZCZmPbmDLfYkWNF18lwmO7Eu9yhi1Ds_0BuYzr3J4GVIFVrNVnUq1K3yee9hcO9uJyanyRlvXVx7XfD30vggrNaWnM",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D14451070852889960096",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "UMP-45 | Riot (Factory New)",
+            "market_name": "UMP-45 | Riot (Factory New)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "UMP-45 | Riot",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 12, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_SMG",
+                    "name": "SMG"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_ump45",
+                    "name": "UMP-45"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_8",
+                    "name": "The Falchion Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "4b69ff",
+                    "internal_name": "Rarity_Rare_Weapon",
+                    "name": "Mil-Spec Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory0",
+                    "name": "Factory New"
+                }
+            ],
+            "tradable": 0,
+            "type": "Mil-Spec Grade SMG"
+        },
+        "3586516504_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D2370019716797319980",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586516504",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Battle-Scarred"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts. It has been hand painted with multiple coats of blue paint.\n\n<i>The topcoat is still drying</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Spectrum 2 Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnY6PnvD7DLPUl31IpsYo3bGS9tig3QPm_EY_ZD3xdtTBewQ5Z1mC81Hrwee6gJXp6pXIySd9-n51baP0Zks",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79eJnY6PnvD7DLPUl31I18lwmO7Eu4-s3wznqEdpZm7xI4PGdVI8MwqE81O5x--9jJbpvJSczHE27Cgj5SrD30vg0B9CymI",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D2370019716797319980",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "Glock-18 | Off World (Battle-Scarred)",
+            "market_name": "Glock-18 | Off World (Battle-Scarred)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "Glock-18 | Off World",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_glock",
+                    "name": "Glock-18"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_18",
+                    "name": "The Spectrum 2 Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "4b69ff",
+                    "internal_name": "Rarity_Rare_Weapon",
+                    "name": "Mil-Spec Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory4",
+                    "name": "Battle-Scarred"
+                }
+            ],
+            "tradable": 0,
+            "type": "Mil-Spec Grade Pistol"
+        },
+        "3586520873_480085569": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D7548209183623960428",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586520873",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Minimal Wear"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy. It has been etched with a basilisk.\n\n<i>It's rude to stare, but war isn't the time for pleasantries</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Vanguard Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3hb-Gw_alIITTl3hY5MxigdbN_Iv9nBrl80BrYz31IYOSdwY-Yl_Wr1C9xr3o05DuvJqazic3viZx7CuOzEO1n1gSObrYfbsp",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3hb-Gw_alIITTl3hY5MxigdbN_Iv9nGu4qgE7NnfyLIWSclI4ZF3X_1G-wunp0Je_u87On3Qxuidx4iqJmxPkiEwfPbNtm7XAHjQFcBpg",
+            "instanceid": "480085569",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D7548209183623960428",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "M4A1-S | Basilisk (Minimal Wear)",
+            "market_name": "M4A1-S | Basilisk (Minimal Wear)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "M4A1-S | Basilisk",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Rifle",
+                    "name": "Rifle"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_m4a1_silencer",
+                    "name": "M4A1-S"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_5",
+                    "name": "The Vanguard Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "8847ff",
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "name": "Restricted"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory1",
+                    "name": "Minimal Wear"
+                }
+            ],
+            "tradable": 0,
+            "type": "Restricted Rifle"
+        },
+        "3586524146_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D11577327802306812737",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586524146",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Field-Tested"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat. It has been highlighted with metallic blue paint.  The stock and magazine bare its designer's mark.\n\n<i>Eventually you need to step outside of your mentor's shadow</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Shadow Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mL-FnvD8J6zYmGxu5cB1g_zMu9-iiwG28xE5Y2D1dtfDcFQ8Yl_Q8lm4x72515_v6Z6dn3ZrviUr7X_D30vg_fm3OKI",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mL-FnvD8J6zYmGxu5cB1g_zMyoD0mlOx5UBrMGyhLNTAcg84MwmG-AO8wunvjZ66us6fm3sw7yN2s3vVmxC-iRhSLrs4iVANjQc",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D11577327802306812737",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "Galil AR | Stone Cold (Field-Tested)",
+            "market_name": "Galil AR | Stone Cold (Field-Tested)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "Galil AR | Stone Cold",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Rifle",
+                    "name": "Rifle"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_galilar",
+                    "name": "Galil AR"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_9",
+                    "name": "The Shadow Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "8847ff",
+                    "internal_name": "Rarity_Mythical_Weapon",
+                    "name": "Restricted"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory2",
+                    "name": "Field-Tested"
+                }
+            ],
+            "tradable": 0,
+            "type": "Restricted Rifle"
+        },
+        "3586526493_188530139": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D785889837301244116",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586526493",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Factory New"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once. ELITE has been stamped on the side of these classic Dual Berettas.\n\n<i>Source material</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The CS20 Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p9g-7J4cL00A3tqhdlNWumJdTHegM8Yw6ErwO-w-y8jJ_vupmay3ZmvCgg4yvcgVXp1kydJNnp",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf1OD3dShD4OOzmImfkuTLMLfQhXhY6_p9g-7J4bP5iUazrl09a2D6ddKcJARrYAqC8lS8w7i70MS8vp-awHswvCRx53vYmR21h0xNcKUx0nQnrd-d",
+            "instanceid": "188530139",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D785889837301244116",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "Dual Berettas | Elite 1.6 (Factory New)",
+            "market_name": "Dual Berettas | Elite 1.6 (Factory New)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "Dual Berettas | Elite 1.6",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_elite",
+                    "name": "Dual Berettas"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_community_24",
+                    "name": "The CS20 Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "4b69ff",
+                    "internal_name": "Rarity_Rare_Weapon",
+                    "name": "Mil-Spec Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory0",
+                    "name": "Factory New"
+                }
+            ],
+            "tradable": 0,
+            "type": "Mil-Spec Grade Pistol"
+        },
+        "3586539994_302028390": {
+            "actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20S%owner_steamid%A%assetid%D625625023029088200",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "appid": "730",
+            "background_color": "",
+            "cache_expiration": "2019-11-13T08:00:00Z",
+            "classid": "3586539994",
+            "commodity": 0,
+            "descriptions": [
+                {
+                    "type": "html",
+                    "value": "Exterior: Factory New"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "type": "html",
+                    "value": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents. It has been painted using a forest camouflage hydrographic.\n\n<i>The woods can be a dangerous place... never travel alone</i>"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "app_data": {
+                        "def_index": "65535",
+                        "is_itemset_name": 1
+                    },
+                    "color": "9da1a9",
+                    "type": "html",
+                    "value": "The Lake Collection"
+                },
+                {
+                    "type": "html",
+                    "value": " "
+                }
+            ],
+            "icon_drag_url": "",
+            "icon_url": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLfYkWNFpsEp2rzDpo-g3lLj_0duYzyiJoPAcwJqM1DWr1btl-bujZfotZXIynZ9-n51cU1OKdk",
+            "icon_url_large": "-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszOfi9H_8iJlo-Zkvb4DLfYkWNF18lwmO7Eu4it2AG2-BBpZT_0IIKXclNvY12F-1Xqk-bp0JHv6pXIwXM3sygj5nvD30vgZdQZjAE",
+            "instanceid": "302028390",
+            "market_actions": [
+                {
+                    "link": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%20M%listingid%A%assetid%D625625023029088200",
+                    "name": "Inspect in Game..."
+                }
+            ],
+            "market_hash_name": "P250 | Boreal Forest (Factory New)",
+            "market_name": "P250 | Boreal Forest (Factory New)",
+            "market_tradable_restriction": "7",
+            "marketable": 1,
+            "name": "P250 | Boreal Forest",
+            "name_color": "D2D2D2",
+            "owner_descriptions": [
+                {
+                    "type": "html",
+                    "value": " "
+                },
+                {
+                    "color": "ff4040",
+                    "type": "html",
+                    "value": "Tradable After Nov 13, 2019 (8:00:00) GMT"
+                }
+            ],
+            "tags": [
+                {
+                    "category": "Type",
+                    "category_name": "Type",
+                    "internal_name": "CSGO_Type_Pistol",
+                    "name": "Pistol"
+                },
+                {
+                    "category": "Weapon",
+                    "category_name": "Weapon",
+                    "internal_name": "weapon_p250",
+                    "name": "P250"
+                },
+                {
+                    "category": "ItemSet",
+                    "category_name": "Collection",
+                    "internal_name": "set_lake",
+                    "name": "The Lake Collection"
+                },
+                {
+                    "category": "Quality",
+                    "category_name": "Category",
+                    "internal_name": "normal",
+                    "name": "Normal"
+                },
+                {
+                    "category": "Rarity",
+                    "category_name": "Quality",
+                    "color": "b0c3d9",
+                    "internal_name": "Rarity_Common_Weapon",
+                    "name": "Consumer Grade"
+                },
+                {
+                    "category": "Exterior",
+                    "category_name": "Exterior",
+                    "internal_name": "WearCategory0",
+                    "name": "Factory New"
+                }
+            ],
+            "tradable": 0,
+            "type": "Consumer Grade Pistol"
+        }
+    },
+    "rgInventory": {
+        "17054946676": {
+            "amount": "1",
+            "classid": "1989282560",
+            "id": "17054946676",
+            "instanceid": "302028390",
+            "pos": 21
+        },
+        "17073025271": {
+            "amount": "1",
+            "classid": "1989279241",
+            "id": "17073025271",
+            "instanceid": "302028390",
+            "pos": 20
+        },
+        "17108659356": {
+            "amount": "1",
+            "classid": "3585449917",
+            "id": "17108659356",
+            "instanceid": "188530139",
+            "pos": 19
+        },
+        "17108662000": {
+            "amount": "1",
+            "classid": "3585448337",
+            "id": "17108662000",
+            "instanceid": "188530139",
+            "pos": 18
+        },
+        "17108663205": {
+            "amount": "1",
+            "classid": "3585458088",
+            "id": "17108663205",
+            "instanceid": "188530139",
+            "pos": 17
+        },
+        "17108671512": {
+            "amount": "1",
+            "classid": "3585463096",
+            "id": "17108671512",
+            "instanceid": "188530139",
+            "pos": 16
+        },
+        "17108672742": {
+            "amount": "1",
+            "classid": "3586515917",
+            "id": "17108672742",
+            "instanceid": "188530139",
+            "pos": 15
+        },
+        "17108674327": {
+            "amount": "1",
+            "classid": "3585555264",
+            "id": "17108674327",
+            "instanceid": "302028390",
+            "pos": 14
+        },
+        "17108675658": {
+            "amount": "1",
+            "classid": "3585465774",
+            "id": "17108675658",
+            "instanceid": "188530139",
+            "pos": 13
+        },
+        "17108677141": {
+            "amount": "1",
+            "classid": "3585812019",
+            "id": "17108677141",
+            "instanceid": "0",
+            "pos": 12
+        },
+        "17108687005": {
+            "amount": "1",
+            "classid": "3586515916",
+            "id": "17108687005",
+            "instanceid": "302028390",
+            "pos": 11
+        },
+        "17108695044": {
+            "amount": "1",
+            "classid": "3586515915",
+            "id": "17108695044",
+            "instanceid": "188530139",
+            "pos": 10
+        },
+        "17112074411": {
+            "amount": "1",
+            "classid": "3586539994",
+            "id": "17112074411",
+            "instanceid": "302028390",
+            "pos": 9
+        },
+        "17112087410": {
+            "amount": "1",
+            "classid": "3586520873",
+            "id": "17112087410",
+            "instanceid": "480085569",
+            "pos": 8
+        },
+        "17112093770": {
+            "amount": "1",
+            "classid": "3586514105",
+            "id": "17112093770",
+            "instanceid": "188530139",
+            "pos": 7
+        },
+        "17112105277": {
+            "amount": "1",
+            "classid": "3586526493",
+            "id": "17112105277",
+            "instanceid": "188530139",
+            "pos": 6
+        },
+        "17112127120": {
+            "amount": "1",
+            "classid": "3586511248",
+            "id": "17112127120",
+            "instanceid": "188530139",
+            "pos": 5
+        },
+        "17112131779": {
+            "amount": "1",
+            "classid": "3586512602",
+            "id": "17112131779",
+            "instanceid": "188530139",
+            "pos": 4
+        },
+        "17112146224": {
+            "amount": "1",
+            "classid": "3586512058",
+            "id": "17112146224",
+            "instanceid": "302028390",
+            "pos": 3
+        },
+        "17112154278": {
+            "amount": "1",
+            "classid": "3586524146",
+            "id": "17112154278",
+            "instanceid": "188530139",
+            "pos": 2
+        },
+        "17112164225": {
+            "amount": "1",
+            "classid": "3586516504",
+            "id": "17112164225",
+            "instanceid": "188530139",
+            "pos": 1
+        }
+    },
+    "success": true
+}
